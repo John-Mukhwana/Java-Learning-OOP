@@ -1,6 +1,6 @@
-package JavaVariables;
+package javavariables;
 
-public class IntroVariable{
+public class introvariable{
     public static void main(String args[]){
         int weight=10;
         String name="John";
