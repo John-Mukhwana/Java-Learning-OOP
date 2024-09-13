@@ -8,6 +8,9 @@ package Comments;
 // This is a single line comment
 // It starts with // and ends at the end of the line
 
+//multi-line comment
+/*This is multiline comment */
+
 public class JavaComment{
     public static void main(String[] args) {
       System.out.println("this are the comments starting with //");
