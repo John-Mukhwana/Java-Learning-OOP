@@ -1,5 +1,7 @@
 package JavaOperators;
 
+//This is Arithmetic Operators in Java
+/*
 public class Javaperator{
     
   public static void main(String args[]){
@@ -20,3 +22,6 @@ public class Javaperator{
   }
 
 }
+*/
+
+//Relational (Comparison) Operators in Java
