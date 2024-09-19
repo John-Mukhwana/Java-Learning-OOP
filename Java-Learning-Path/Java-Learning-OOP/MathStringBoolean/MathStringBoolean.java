@@ -18,11 +18,11 @@ package MathStringBoolean;
 //     }
 // }
 
-public class MathStringBoolean{
+// public class MathStringBoolean{
 
-    public static void main(String[] args){
-        int x=57;
+//     public static void main(String[] args){
+//         int x=57;
         
-        System.out.println(Math.sqrt(x));
-    }
-}
+//         System.out.println(Math.sqrt(x));
+//     }
+// }
