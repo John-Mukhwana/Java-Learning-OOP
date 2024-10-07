@@ -30,3 +30,9 @@ To change the value of a specific element, refer to the index number:
 Example
 cars[0] = "Opel";
 
+Array Length
+To find out how many elements an array has, use the length property:
+
+Example
+String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+System.out.println(cars.length);
